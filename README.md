@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/CHANGEME.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw07-poor-social-skills.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw07-poor-social-skills.svg?branch=master)
 
 # PHYS220/MATH220/CPSC220 CW 7
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Trevor Kling**
 
 ## Specification
 
@@ -17,9 +17,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+For this assignment, I found the development of a symmetric program quite helpful.  While both generators do effectively the same job, being able to code a particular problem in multiple ways empowers a programmer to find optimal implementations and write clearer code.
 
 ## Honor Pledge
 
@@ -30,4 +28,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Trevor Kling**
